@@ -1,0 +1,76 @@
+/* line 4, ../sass/main.scss */
+body {
+  font-family: Z3;
+  font-size: 24px;
+  background: white;
+  color: black;
+}
+
+/* line 11, ../sass/main.scss */
+p {
+  margin-bottom: 20px;
+}
+
+/* line 15, ../sass/main.scss */
+a {
+  color: #b3321c;
+}
+/* line 17, ../sass/main.scss */
+a:hover {
+  color: #9290ff;
+}
+
+/* line 22, ../sass/main.scss */
+header {
+  margin-bottom: 80px;
+}
+/* line 24, ../sass/main.scss */
+header h1 {
+  color: #684312;
+  font-size: 160px;
+}
+
+/* line 30, ../sass/main.scss */
+h1 {
+  font-family: LibertyD;
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+/* line 36, ../sass/main.scss */
+h2 {
+  font-family: FuturaLtCnd;
+  font-size: 30px;
+}
+
+/* line 41, ../sass/main.scss */
+footer {
+  margin-top: 40px;
+  clear: both;
+  text-align: center;
+}
+
+/* line 47, ../sass/main.scss */
+.free {
+  font-family: Floyd;
+  color: #b3321c;
+}
+
+/* line 52, ../sass/main.scss */
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/* line 57, ../sass/main.scss */
+.body {
+  width: 760px;
+  float: left;
+  margin: 0 40px 40px 0;
+}
+
+/* line 62, ../sass/main.scss */
+.sidebar {
+  width: 400px;
+  float: right;
+}
