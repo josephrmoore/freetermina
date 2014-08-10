@@ -46,58 +46,59 @@ h1 {
 h2 {
   font-family: FuturaLtCnd;
   font-size: 30px;
+  margin-bottom: 20px;
 }
 
-/* line 45, ../sass/main.scss */
+/* line 46, ../sass/main.scss */
 footer {
   margin-top: 40px;
   clear: both;
   text-align: center;
 }
 
-/* line 51, ../sass/main.scss */
+/* line 52, ../sass/main.scss */
 .free {
   font-family: Floyd;
   color: #b3321c;
 }
 
-/* line 56, ../sass/main.scss */
+/* line 57, ../sass/main.scss */
 .wrapper {
   width: 1200px;
   margin: 0 auto;
 }
 
-/* line 61, ../sass/main.scss */
+/* line 62, ../sass/main.scss */
 .body {
   width: 760px;
   float: left;
   margin: 0 40px 40px 0;
 }
 
-/* line 66, ../sass/main.scss */
+/* line 67, ../sass/main.scss */
 .sidebar {
   width: 400px;
   float: right;
 }
 
-/* line 71, ../sass/main.scss */
+/* line 72, ../sass/main.scss */
 .copyright {
   font-family: LibertyD;
 }
 
-/* line 75, ../sass/main.scss */
+/* line 76, ../sass/main.scss */
 .heart, .heart-list li:before {
   color: #ff3500;
   text-shadow: 2px 0px 0px black;
 }
 
-/* line 81, ../sass/main.scss */
+/* line 82, ../sass/main.scss */
 .heart-list li {
   padding-left: 30px;
   margin-bottom: 20px;
   position: relative;
 }
-/* line 85, ../sass/main.scss */
+/* line 86, ../sass/main.scss */
 .heart-list li:before {
   content: "#";
   position: absolute;
